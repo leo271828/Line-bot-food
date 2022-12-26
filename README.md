@@ -14,14 +14,14 @@
 	* `menu`
 		* 開始動作！
 - Menu
-    - 餐廳推薦
+    - 美食推薦
         1. 種類
         2. 價位
         3. 地點
-    - 餐廳清單
+    - 美食清單
         - 新增
         - 查看所有
-        - 查看隨機 5 家
+        - 查看隨機 5 家餐廳
 
 ## FSM
 ![show-fsm](https://user-images.githubusercontent.com/47287400/209556133-8a2390ba-7be8-44e8-a315-bc96dcba9622.jpg)
